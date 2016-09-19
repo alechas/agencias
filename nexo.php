@@ -1,6 +1,6 @@
 <?php
 
-include_once("PHP/administrador.php"); 
+//include_once("PHP/administrador.php"); 
 
 if ($_POST["cargar"]=="cargar") 
 {
