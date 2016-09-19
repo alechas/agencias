@@ -8,10 +8,14 @@
 
 <form method="post" action="Nexo.php">
 <div class ="CajaInicio Animated bounceIn">
-<lavel> Nombre del hotel </lavel>
+<lavel> Nombre de agencia </lavel><br> </br>
 <input type="text" name= "nombre" id = "nombre"></input> <br> </br>
-<input type="text" name= "localidad" id = "localidad"></input> <br> </br>
-<input type="text" name= "pr_noche" id = "pr_noche"></input> <br> </br>
+
+<lavel> Especialidad </lavel><br> </br>
+<input type="text" name= "especialidad" id = "especialidad"></input> <br> </br>
+
+<lavel> País </lavel><br> </br>
+<input type="text" name= "pais" id = "pais"></input> <br> </br>
 
 <br> </br>
 <input class= "MiBotonUtn" type= "submit" value="Ingresar" name="ingresar" id="ingreso"> </input>
