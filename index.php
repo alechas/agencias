@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form method="post" action="Nexo.php">
+<form method="post" action="nexo.php">
 <div class ="CajaInicio Animated bounceIn">
 <lavel> Nombre de agencia </lavel><br> </br>
 <input type="text" name= "nombre" id = "nombre"></input> <br> </br>
@@ -18,7 +18,7 @@
 <input type="text" name= "pais" id = "pais"></input> <br> </br>
 
 <br> </br>
-<input class= "MiBotonUtn" type= "submit" value="Cargar" name="cargar" id="cargar"> </input>
+<input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="cargar"> </input>
 <input class= "MiBotonUtn" type= "submit" value="Salir" name="salir" id="salida"> </input> 
 
 </div>
