@@ -21,7 +21,7 @@
 <input class= "MiBotonUtn" type= "submit" value="Cargar" name="cargar" id="cargar"> </input>
 <input class= "MiBotonUtn" type= "submit" value="Salir" name="salir" id="salida"> </input> 
 
-	</div>
+</div>
 </form>
 
 </body>
