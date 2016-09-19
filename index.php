@@ -18,7 +18,7 @@
 <input type="text" name= "pais" id = "pais"></input> <br> </br>
 
 <br> </br>
-<input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="cargar"> </input>
+<input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="Cargar"> </input>
 <input class= "MiBotonUtn" type= "submit" value="Salir" name="salir" id="salida"> </input> 
 
 </div>
