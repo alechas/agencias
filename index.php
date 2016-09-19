@@ -9,9 +9,9 @@
 <form method="post" action="Nexo.php">
 <div class ="CajaInicio Animated bounceIn">
 <lavel> Nombre del hotel </lavel>
-<input type="text" name= "nombre" id = "nombre"></input>
-<input type="text" name= "localidad" id = "localidad"></input>
-<input type="text" name= "pr_noche" id = "pr_noche"></input>
+<input type="text" name= "nombre" id = "nombre"></input> <br> </br>
+<input type="text" name= "localidad" id = "localidad"></input> <br> </br>
+<input type="text" name= "pr_noche" id = "pr_noche"></input> <br> </br>
 
 <br> </br>
 <input class= "MiBotonUtn" type= "submit" value="Ingresar" name="ingresar" id="ingreso"> </input>
